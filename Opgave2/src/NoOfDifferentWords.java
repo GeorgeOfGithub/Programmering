@@ -7,6 +7,7 @@ public class NoOfDifferentWords {
 		throws FileNotFoundException {
 			Scanner input = new Scanner(new File("H:text17_00.txt"));
 			int differentwords=0;
+			int count = 0;
 			
 			
 

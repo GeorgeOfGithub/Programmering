@@ -24,7 +24,6 @@ public class NoOfDifferentWords {
 				
 				
 			}
-			System.out.println("count is: " + count);
 			int NoOfDifferentWords=count;
 			
 			for (int n = 0; n < count; n++) {

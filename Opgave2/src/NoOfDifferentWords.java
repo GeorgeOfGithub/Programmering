@@ -6,16 +6,9 @@ public class NoOfDifferentWords {
 	public static void main(String[] args) 
 		throws FileNotFoundException {
 			Scanner input = new Scanner(new File("H:text17_00.txt"));
-<<<<<<< Upstream, based on origin/main
-			int differentwords=0;
-			int count = 0;
-			
-			
-=======
 			int maxNoOfWords=16;
 			int count=0;
 			int i=0;
->>>>>>> 4a5f5c9 3 methods lavet, skal samles til en
 
 			
 			String[] array = new String[maxNoOfWords];
